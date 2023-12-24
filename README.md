@@ -103,7 +103,7 @@ By employing R, we gained valuable perspectives on the distribution and performa
 
 - Import the same R script used before, making sure to specify the dir, using ```setwd``` 
 - Create the Dashboard: 
-  - ![image](https://github.com/mkowalczyk0/Real-Estate-Sales-Analysis-Proj/assets/151803531/5da2d5dd-ca1a-479c-a6cf-16aeb93278e0)
+  - ![](https://github.com/mkowalczyk0/Real-Estate-Sales-Analysis-Proj/blob/main/PowerBI/PowerBI.gif) 
 
 
 
