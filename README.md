@@ -1,4 +1,4 @@
-# 2022_Real_Estate_Sales_Data_Analysis
+# 2022 Real Estate Sales - Data Analysis
 Data Analysis of an "Unnamed" (For legal purposes) Real Estate Office 2022 Sales Data
 
 ```The goal of this project is to analyze the performance of the office and its individual agents```
