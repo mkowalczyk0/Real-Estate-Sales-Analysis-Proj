@@ -95,14 +95,15 @@ By employing R, we gained valuable perspectives on the distribution and performa
 
 
 
-**5. Preparing a Dashboard in PowerBi**
+**5. Preparing a Dashboard in PowerBI**
 -
 
 ```After extracting insights in R, we want to prepare an interactive dashboard in PowerBI to present to the managing broker, agents, or potential real estate investors.``` 
 
 - Import the same R script used before, making sure to specify the dir, using ```setwd``` 
 - Create the Dashboard: 
-  - 
+  - ![image](https://github.com/mkowalczyk0/Real-Estate-Sales-Analysis-Proj/assets/151803531/d788bcc3-63f5-43be-bf67-ecc40a4f54f6)
+
 
 
 PowerBI Generated Insights using "Narritive" : 
@@ -111,8 +112,22 @@ PowerBI Generated Insights using "Narritive" :
   - ﻿﻿Sale Volume and total Number of Sales are positively correlated with each other.
   - June accounted for 13.91% of Sale Volume.
   - Sale Volume and Number of Sales diverged the most when the Month was June, when Sale Volume were $23,042,855 higher than Number of Sales.
-  - Across all 16 Agent, Sale Volume ranged from $650,000 to $100,254,575.﻿﻿
-﻿﻿
-﻿
+  - Across all 16 Agent, Sale Volume ranged from $650,000 to $100,254,575.
+      - ﻿```A File to the Dashboard will be uploaded```
+
+**Final Thoughts**
+-
+
+The project on analyzing this data for this "unnamed" office (for legal reasons of course) has provided a comprehensive understanding of the office's performance and individual agents. By leveraging both Excel and R for data cleaning, preparation, and extraction of insights, we were able to generate valuable visualizations and metrics. The initial basic analysis, including the count of sale types and the total sale volume by agent, laid the foundation for deeper insights. The subsequent dive into Lemont's sales data revealed crucial information about the dominating agents and the distribution of sale prices.
+
+The visualization of data through various charts and graphs not only facilitated a clearer comprehension of the office's dynamics but also presented actionable insights for strategic decision-making. The transition to PowerBI allowed for the creation of an interactive dashboard, enhancing the accessibility and usability of the insights for the managing broker, agents, and potential investors.
+
+By incorporating R's capabilities for statistical analysis and visualization, we have empowered the real estate office with data driven tools for making informed decisions. The findings can be utilized to identify top performing agents, target specific market segments, and optimize marketing strategies. Overall, this project provides a robust foundation for ongoing data analysis and strategic planning within the real estate industry. Had a lot of fun!
+
+
+
+
+
+
 
 
