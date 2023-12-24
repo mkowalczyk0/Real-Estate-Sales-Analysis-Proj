@@ -95,14 +95,24 @@ By employing R, we gained valuable perspectives on the distribution and performa
 
 
 
+**5. Preparing a Dashboard in PowerBi**
+-
+
+```After extracting insights in R, we want to prepare an interactive dashboard in PowerBI to present to the managing broker, agents, or potential real estate investors.``` 
+
+- Import the same R script used before, making sure to specify the dir, using ```setwd``` 
+- Create the Dashboard: 
+  - 
 
 
-
-
-
-
-
-
-
+PowerBI Generated Insights using "Narritive" : 
+- Insights:
+  - ﻿At $23,042,901, June had the highest Sale Volume and was 318.96% higher than November, which had the lowest Sale Volume at $5,500,001.
+  - ﻿﻿Sale Volume and total Number of Sales are positively correlated with each other.
+  - June accounted for 13.91% of Sale Volume.
+  - Sale Volume and Number of Sales diverged the most when the Month was June, when Sale Volume were $23,042,855 higher than Number of Sales.
+  - Across all 16 Agent, Sale Volume ranged from $650,000 to $100,254,575.﻿﻿
+﻿﻿
+﻿
 
 
