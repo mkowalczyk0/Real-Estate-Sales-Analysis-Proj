@@ -26,7 +26,7 @@ Data Analysis of an "Unnamed" (For legal purposes) Real Estate Office 2022 Sales
 
 **2. Cleaning/Preparing data** 'Excel'
 -
-- Removing Confiential Data:
+- Removing Confidential Data:
   - Instances that contained Buyer/Seller Names, Escrow Deposits, etc.
 - Removing Junk Data
   - Attributes that provided no value to the dataset, misc. Companies, Escrow ID, Listing ID, Other Agents, etc. 
@@ -92,7 +92,7 @@ Data Analysis of an "Unnamed" (For legal purposes) Real Estate Office 2022 Sales
 
 
 ```Quick Summary```
-By employing R, we gained valuable perspectives on the distribution and performance within this office. The creation of a commission estimate column allowed us to further assess the potential earnings of each agent. Additionally, our examination of sales counts, sale volumes, and average sale prices by city provided a comprehensive overview, aiding in strategic decision-making for marketing and client engagement. Moving on to the deeper dive section, our focus on Lemont uncovered significant insights. With graphical representation, we identified Lemont as a high-performing city, particularly dominated by Luxe with a substantial market share. Further analysis of sale price distribution in Lemont, presented through a histogram, highlighted the most common price range, offering strategic guidance for various stakeholders in the real estate industry. These analyses collectively equip the office with actionable insights for informed decision-making in the real estate market.
+By employing R, we gained valuable perspectives on the distribution and performance within this office. The creation of a commission estimate column allowed us to further assess the potential earnings of each agent. Additionally, our examination of sales counts, sale volumes, and average sale prices by city provided a comprehensive overview, aiding in strategic decision making for marketing and client engagement. Moving on to the deeper dive section, our focus on Lemont uncovered significant insights. With graphical representation, we identified Lemont as a high-performing city, particularly dominated by Luxe with a substantial market share. Further analysis of sale price distribution in Lemont, presented through a histogram, highlighted the most common price range, offering strategic guidance for various stakeholders in the real estate industry. These analyses collectively equip the office with actionable insights for informed decision-making in the real estate market.
 
 
 
